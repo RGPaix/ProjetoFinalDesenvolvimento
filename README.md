@@ -1,5 +1,3 @@
-# Sistema de Vendas - Atividade09
-
 ## 📋 Descrição
 
 Sistema completo de gerenciamento de vendas desenvolvido em **Java Spring Boot** com API REST documentada via Swagger. O sistema permite o controle completo do ciclo de vendas, desde o cadastro de clientes e produtos até a finalização de pedidos.
